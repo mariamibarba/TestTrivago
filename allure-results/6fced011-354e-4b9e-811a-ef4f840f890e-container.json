@@ -1,0 +1,1 @@
+{"uuid":"6fced011-354e-4b9e-811a-ef4f840f890e","name":"Tests.AllTets","children":["f1447da7-701f-4907-93a3-9733a4a4e46d"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"Maximize browsers windows","steps":[],"attachments":[],"parameters":[],"start":1718971687929,"stop":1718971691132}],"afters":[],"start":1718971687911,"stop":1718971691261}
